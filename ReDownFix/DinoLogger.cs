@@ -1,6 +1,7 @@
 ﻿using BepInEx.Logging;
+using ReDownFix;
 
-namespace ModBase.Utils
+namespace ReDownFix
 {
     internal static class DinoLogger
     {
